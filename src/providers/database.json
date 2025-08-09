@@ -1,0 +1,12 @@
+{
+  "botProfileId": {
+    "address": "0x061204150AB71Dda0E546b80152b324A2c990CF6"
+  },
+  "userPersonas": {
+    "0x5A5BA7B1F313f0edF5A7b6DEe9cB89DDa97aae50": {
+      "aiEnabled": true
+    }
+  },
+  "confirmedEventNum": 470,
+  "whitelistedUsers": []
+}
